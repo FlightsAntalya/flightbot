@@ -1,5 +1,5 @@
 import os
-immport telebot
+import telebot
 import logging
 from config import *
 from flask import flask, request
