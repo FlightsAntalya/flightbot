@@ -1,0 +1,10 @@
+
+*.pyc
+pycache
+myconfig.py
+virtualenv
+.idea
+.vscode
+.DS_Store
+.env
+.pytest_cache
