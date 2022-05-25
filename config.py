@@ -1,3 +1,3 @@
-BOT_TOKEN = "5344285897:AAETtCyA93hLe3OWFdILilpHY99cW7V6KiU"
+BOT_TOKEN = "5325836917:AAELctkQVzz7gJllmU0UQYyzvubxq5cDxMM"
 APP_URL = "https://cheap-flights-antalya.herokuapp.com/" + BOT_TOKEN
-DB_URI = "postgres://puituzgmngqiwh:9b4f079c0766513bd92150923a63bb17c1d3505460b059396fcb8d0599757aa2@ec2-54-78-211-131.eu-west-1.compute.amazonaws.com:5432/dcrqes2g6amhmi"
+DB_URI = "postgres://fdclhhzumuymek:9c34d07fca43e2f221b5cf32722e4c418da7fceb936090f447270667a669f07f@ec2-34-246-227-219.eu-west-1.compute.amazonaws.com:5432/db0hd61jj9vvpj"
