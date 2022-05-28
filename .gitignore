@@ -7,4 +7,4 @@ virtualenv
 .vscode
 .DS_Store
 .env
-.pytest_cache
+.pytest_cache○
